@@ -2,6 +2,7 @@
 	"name": "simple-user-greet",
 	"version": "1.1.0",
 	"description": "A simple package to greet a user with custom greeting and name",
+	"homepage": "https://github.com/sunillshastry/simple-user-greet#README.md",
 	"main": "index.js",
 	"scripts": {},
 	"keywords": [
