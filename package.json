@@ -1,0 +1,18 @@
+{
+	"name": "simple-user-greet",
+	"version": "1.0.1",
+	"description": "A simple package to greet a user with custom greeting and name",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [
+		"greet",
+		"simple",
+		"user",
+		"simplegreet",
+		"log",
+		"logging",
+		"greeting"
+	],
+	"author": "Sunil Shastry",
+	"license": "MIT"
+}
