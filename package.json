@@ -3,6 +3,10 @@
 	"version": "1.1.0",
 	"description": "A simple package to greet a user with custom greeting and name",
 	"homepage": "https://github.com/sunillshastry/simple-user-greet#README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sunillshastry/simple-user-greet"
+	},
 	"main": "index.js",
 	"scripts": {},
 	"keywords": [
